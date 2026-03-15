@@ -37,7 +37,7 @@ AI-based system that recommends optimal agricultural inputs like fertilizers and
 📊 GitHub Stats
 🦊Begginer🦊
 📫 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/sri-charan-rao-94382a307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+💼 LinkedIn: https://www.linkedin.com/in/sri-charan-rao-94382a307
 📧 Email: sricharanrao2006@gmail.com
-💻 GitHub: https://github.com/YOUR_USERNAME⁠�
+💻 GitHub: https://github.com/Ravanagod
 ⭐ Always open to collaborating on AI, ML, and impactful tech projects.
